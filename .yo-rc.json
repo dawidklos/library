@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.martwykotek.library",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.6.0",
+    "applicationType": "monolith",
+    "baseName": "library",
+    "packageName": "com.martwykotek.library",
+    "packageFolder": "com/martwykotek/library",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzVhN2E4Y2QxOWY3MzJjMDQzNzlkZjkwODMxZmM4NjY0ZTc5MzRhZTA4MmMyNWZhMGYyZGIyODg3OGFmMjI2YTBhNzJjODViOTlkNGQ4MzlhZmU2NTIzMTdlNzI1ZDdjM2JkM2IyOTIwYmI1NGMzZWZiZWE0YjI1ZWU1MjQyOTU=",
+    "clientFramework": "react",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "pl"
+    ]
+  }
+}
