@@ -35,6 +35,8 @@
     "languages": [
       "en",
       "pl"
-    ]
+    ],
+    "herokuAppName": "utopian-library",
+    "herokuDeployType": "jar"
   }
 }
